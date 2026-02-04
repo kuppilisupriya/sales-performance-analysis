@@ -1,0 +1,6 @@
+This project demonstrates end-to-end data analysis using Excel, SQL, and Power BI.
+
+Steps:
+1. Raw sales data cleaned in Excel.
+2. SQL queries used for aggregation and trend analysis.
+3. Power BI dashboard created using KPIs and visual charts.
